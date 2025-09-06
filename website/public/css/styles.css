@@ -13,7 +13,7 @@ body {
 
 .hero-section {
   position: relative;
-  background-image: url('images\hello.jpg');
+  background-image: url('https://tse1.mm.bing.net/th/id/OIP.YspV2RZ0F0sd4W9c0zpoPgHaE8?w=920&h=614&rs=1&pid=ImgDetMain&o=7&rm=3');
   background-size: cover;
   background-position: center;
   height: 100vh;
@@ -209,6 +209,7 @@ h1 span {
   0% { opacity: 0; transform: translateY(-20px); }
   100% { opacity: 1; transform: translateY(0); }
 }
+
 
 
 
